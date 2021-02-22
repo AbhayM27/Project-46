@@ -26,7 +26,7 @@ function preload() {
   Ground1 = loadImage("Images/Ground 1.png");
   Ground2 = loadImage("Images/Ground 2.png");
   Ground3 = loadImage("Images/Ground 3.png");
-  Ground4 = loadImage("images/Ground 4.png");
+  Ground4 = loadImage("Images/Ground 4.png");
   
   MonskeyIdle = loadAnimation("Images/Idle 1.png","Images/Idle 2.png","Images/Idle 3.png");
   MonskeyWalkR = loadAnimation("Images/Walking 1.png","Images/Walking 2.png","Images/Walking 3.png","Images/Walking 4.png","Images/Walking 5.png","Images/Walking 6.png","Images/Walking 7.png","Images/Walking 8.png","Images/Walking 9.png","Images/Walking 10.png","Images/Walking 11.png")
